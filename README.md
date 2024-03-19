@@ -4,5 +4,4 @@ website.com/admin/ login mengunakan admin admin  hoki2  jika mereka pake u/admin
 dork kembanginn
 <pre>Powered by ECShop</pre>
 
-jangan lupa
-<a href="https://www.raidenhttpd.com/manual/ecshop.html">kesini</a>
+<a href="https://www.raidenhttpd.com/manual/ecshop.html">aw</a>
