@@ -1,2 +1,6 @@
-# ecshop-site-u-admin-p-admin
 ecshop u/admin/p/admin 
+website.com/admin/ login mengunakan admin admin  hoki2  jika mereka pake u/admin & p/admin bantai aja
+dork kembanginn
+Powered by ECShop
+
+lihat juga website ini https://www.raidenhttpd.com/manual/ecshop.html
