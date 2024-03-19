@@ -2,6 +2,7 @@
 ecshop u/admin/p/admin 
 website.com/admin/ login mengunakan admin admin  hoki2  jika mereka pake u/admin & p/admin bantai aja
 dork kembanginn
-Powered by ECShop
+<pre>Powered by ECShop</pre>
 
-lihat juga website ini https://www.raidenhttpd.com/manual/ecshop.html
+jangan lupa
+<a href="https://www.raidenhttpd.com/manual/ecshop.html">kesini</a>
